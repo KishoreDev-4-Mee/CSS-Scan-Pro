@@ -1,0 +1,160 @@
+{
+	"description": {
+		"message": "The fastest and easiest way to check, copy and edit CSS."
+	},
+	"pause_continue": {
+		"message": "Pause / Continue"
+	},
+	"scan_parent": {
+		"message": "Scan parent element"
+	},
+	"toggle_grid": {
+		"message": "Toggle grid"
+	},
+	"pin_shortcut": {
+		"message": "Pin box"
+	},
+
+	"exit": {
+		"message": "Close CSS Scan"
+	},
+	"pause": {
+		"message": "Pause"
+	},
+	"continue": {
+		"message": "Continue"
+	},
+	"move": {
+		"message": "Move"
+	},
+	"shortcuts": {
+		"message": "Shortcuts"
+	},
+	"feedback": {
+		"message": "Feedback"
+	},
+	"options": {
+		"message": "Options"
+	},
+	"whats_new": {
+		"message": "What's New"
+	},
+	"activate": {
+		"message": "Activate the extension"
+	},
+	"close_shortcut": {
+		"message": "Close the extension"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "Ignore browser vendor prefixes"
+	},
+	"options_ignore_inherited": {
+		"message": "Ignore inherited styles"
+	},
+	"options_absolute_urls": {
+		"message": "Convert relative URLs to absolute"
+	},
+	"options_ignore_bxsizing": {
+		"message": "Ignore box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Truncated selector"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "Convert font-size measure units to px"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "Page needs to be focused for shortcuts to work. It's easier if you always open the extension by the shortcut."
+	},
+	"shortcuts_warning_2": {
+		"message": "You can also change them by clicking on it."
+	},
+
+	"options_label_click_action": {
+		"message": "On click:"
+	},
+	"options_click_to_pin": {
+		"message": "Pin the CSS window"
+	},
+	"options_click_to_copy": {
+		"message": "Copy code"
+	},
+	"options_label_child_elements": {
+		"message": "Child elements' CSS:"
+	},
+	"options_label_html": {
+		"message": "HTML code:"
+	},
+	"options_label_display": {
+		"message": "Display:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "Copying preferences for CSS selectors:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "Other copying preferences:"
+	},
+
+	"options_dont_copy": {
+		"message": "Don't copy it"
+	},
+	"options_copy": {
+		"message": "Copy it"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "Copy original selectors (but remove parent selectors)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "Smartly generate selectors"
+	},
+
+	"options_nest_pseudos": {
+		"message": "Nest pseudo-classes, pseudo-elements, and media queries (for SASS/LESS)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "Don't copy CSS selectors when possible"
+	},
+
+	"overlapping": {
+		"message": "overlapping"
+	},
+	"hold": {
+		"message": "hold"
+	},
+	"click_traverse": {
+		"message": "and click to traverse"
+	},
+	"no_styles": {
+		"message": "No styles found"
+	},
+	"loading": {
+		"message": "Loading styles... Try again"
+	},
+	"click_to_copy": {
+		"message": "Click to copy, press space to pin"
+	},
+	"copying": {
+		"message": "Copying styles of all child elements...<br>Click again to cancel."
+	},
+	"copied": {
+		"message": "Copied to clipboard"
+	},
+
+	"ask_review": {
+		"message": "Enjoying CSS Scan? Help us with a review"
+	},
+
+	"context_menu": {
+		"message": "Inspect with CSS Scan"
+	}
+}

@@ -1,0 +1,162 @@
+{
+	"description": {
+		"message": "Быстро просмотреть и скопировать CSS стили"
+	},
+	"pause_continue": {
+		"message": "Пауза / Продолжить"
+	},
+	"scan_parent": {
+		"message": "Посмотреть родительский элемент"
+	},
+	"toggle_grid": {
+		"message": "Переключить сетку"
+	},
+	"pin_shortcut": {
+		"message": "Закрепить результаты"
+	},
+
+	"exit": {
+		"message": "Закрыть CSS Scan"
+	},
+	"pause": {
+		"message": "Пауза"
+	},
+	"continue": {
+		"message": "Продолжить"
+	},
+	"move": {
+		"message": "Двигать"
+	},
+	"shortcuts": {
+		"message": "Горячие клавиши"
+	},
+	"feedback": {
+		"message": "Обратная связь"
+	},
+	"options": {
+		"message": "Опции"
+	},
+	"whats_new": {
+		"message": "Что нового"
+	},
+	"activate": {
+		"message": "Активировать расширение"
+	},
+	"close_shortcut": {
+		"message": "Закрыть расширение"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "Игнорировать префиксы"
+	},
+	"options_ignore_inherited": {
+		"message": "Игнорировать унаследованные стили"
+	},
+	"options_absolute_urls": {
+		"message": "Преобразование относительных URL-адресов в абсолютные"
+	},
+	"options_ignore_bxsizing": {
+		"message": "Игнорировать box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Показать сетку"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Обрезать селектор"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "Конвертировать размер шрифтов в пиксели (px)"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "Для работоспособности горячих клавиш страница должна быть в фокусе. Это проще всего сделать, если всегда открывать расширение по горячей клавише."
+	},
+	"shortcuts_warning_2": {
+		"message": "Вы можете изменить их кликнув по ним"
+	},
+
+
+	"options_label_click_action": {
+		"message": "При клике:"
+	},
+	"options_click_to_pin": {
+		"message": "Закрепить окно с CSS"
+	},
+	"options_click_to_copy": {
+		"message": "Копировать код"
+	},
+	"options_label_child_elements": {
+		"message": "CSS дочерних элементов:"
+	},
+	"options_label_html": {
+		"message": "Код HTML:"
+	},
+	"options_label_display": {
+		"message": "Отображение:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "Копирование настроек для селекторов CSS:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "Другие параметры копирования:"
+	},
+
+	"options_dont_copy": {
+		"message": "Не копируй это"
+	},
+	"options_copy": {
+		"message": "Скопируйте это"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "Скопируйте исходные селекторы (но удалите родительские селекторы)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "Умное создание селекторов"
+	},
+
+	"options_nest_pseudos": {
+		"message": "Вложение псевдоклассов, псевдоэлементов и медиа-запросов (для SASS/LESS)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "Не копируйте селекторы CSS, когда это возможно"
+	},
+
+
+	"overlapping": {
+		"message": "повторение"
+	},
+	"hold": {
+		"message": "удерживайте"
+	},
+	"click_traverse": {
+		"message": "и кликните для перемещения"
+	},
+	"no_styles": {
+		"message": "Стили не найдены"
+	},
+	"loading": {
+		"message": "Загрузка стилей... Повторите ещё раз"
+	},
+	"click_to_copy": {
+		"message": "Кликните для копирования, нажмите пробел для закрепления"
+	},
+	"copying": {
+		"message": "Копирование стилей всех дочерних элементов...<br>Нажмите еще раз для отмены."
+	},
+	"copied": {
+		"message": "Скопировано в буфер обмена"
+	},
+
+	"ask_review": {
+		"message": "Вам нравится CSS Scan? Помогите нам с обзором"
+	},
+
+	"context_menu": {
+		"message": "Исследовать с CSS Scan"
+	}
+}

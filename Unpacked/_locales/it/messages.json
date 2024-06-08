@@ -1,0 +1,161 @@
+{
+  "description": {
+    "message": "Il metodo più veloce e facile per controllare, copiare e modificare CSS"
+  },
+  "pause_continue": {
+    "message": "Pausa / Continua"
+  },
+  "scan_parent": {
+    "message": "Scansiona l'elemento padre"
+  },
+  "toggle_grid": {
+    "message": "Attiva griglia"
+  },
+  "pin_shortcut": {
+    "message": "Risultato pin"
+  },
+
+  "exit": {
+    "message": "Chiudi CSS Scan"
+  },
+  "pause": {
+    "message": "Pausa"
+  },
+  "continue": {
+    "message": "Continua"
+  },
+  "move": {
+    "message": "Muovi"
+  },
+  "shortcuts": {
+    "message": "Scorciatoie"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "options": {
+    "message": "Opzioni"
+  },
+  "whats_new": {
+    "message": "Cosa c'è di nuovo"
+  },
+  "activate": {
+    "message": "Attiva l'estensione"
+  },
+  "close_shortcut": {
+    "message": "Chiusi l'estensione"
+  },
+
+
+  "options_ignore_prefixes": {
+    "message": "Ingora i prefissi del vendor"
+  },
+  "options_ignore_inherited": {
+    "message": "Ignora gli stili ereditati"
+  },
+  "options_absolute_urls": {
+    "message": "Converti gli URL relativi in assoluti"
+  },
+  "options_ignore_bxsizing": {
+    "message": "Ignora box-sizing"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Selettore troncato"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "Converti le unità di misura font-size in px"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "La pagina deve avere il focus affinchè le scorciatoie funzionino. E' più facile se apri sempre l'estensione attraverso i tasti scorciatoia."
+  },
+  "shortcuts_warning_2": {
+    "message": "Puoi anche sostituirli cliccandoci sopra."
+  },
+
+  "options_label_click_action": {
+    "message": "Al click:"
+  },
+  "options_click_to_pin": {
+    "message": "Pin la finestra CSS"
+  },
+  "options_click_to_copy": {
+    "message": "Copia codice"
+  },
+  "options_label_child_elements": {
+    "message": "CSS degli elementi figlio:"
+  },
+  "options_label_html": {
+    "message": "Codice HTML:"
+  },
+  "options_label_display": {
+    "message": "Mostra:"
+  },
+  "options_label_copy_preferences_selectors": {
+    "message": "Preferenze di copia per i selettori CSS:"
+  },
+  "options_label_other_copy_preferences": {
+    "message": "Altre preferenze di copia:"
+  },
+
+  "options_dont_copy": {
+    "message": "Non copiarlo"
+  },
+  "options_copy": {
+    "message": "Copialo"
+  },
+
+  "options_copy_original_selectors": {
+    "message": "Copia i selettori originali (ma rimuovi i selettori principali)"
+  },
+  "options_smartly_generate_selectors": {
+    "message": "Genera in modo intelligente i selettori"
+  },
+
+  "options_nest_pseudos": {
+    "message": "Nidifica pseudo-classi, pseudo-elementi e media query (per SASS/LESS)"
+  },
+  "options_dont_copy_selectors_when_possible": {
+    "message": "Non copiare i selettori CSS quando possibile"
+  },
+
+
+  "overlapping": {
+    "message": "sovrapposizione"
+  },
+  "hold": {
+    "message": "tieni premuto"
+  },
+  "click_traverse": {
+    "message": "e clicka per attraversare"
+  },
+  "no_styles": {
+    "message": "Nessuno stile trovato"
+  },
+  "loading": {
+    "message": "Caricamento stili... Prova di nuovo"
+  },
+  "click_to_copy": {
+    "message": "Clicca per copiare, premi la barra spaziatrice per pinnare"
+  },
+  "copying": {
+    "message": "Copia degli stili di tutti gli elementi figlio...<br>Fai di nuovo clic per annullare."
+  },
+  "copied": {
+    "message": "Copiato"
+  },
+
+  "ask_review": {
+    "message": "Ti piace CSS Scan? Aiutaci con una recensione"
+  },
+
+  "context_menu": {
+    "message": "Ispeziona con CSS Scan"
+  }
+}

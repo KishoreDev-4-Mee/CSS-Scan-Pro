@@ -1,0 +1,161 @@
+{
+	"description": {
+		"message": "Brzo pregledaj i kopiraj procesuirani CSS"
+	},
+	"pause_continue": {
+		"message": "Pauziraj / Nastavi"
+	},
+	"scan_parent": {
+		"message": "Pregledaj nadređeni element"
+	},
+	"toggle_grid": {
+		"message": "Preklopni grid"
+	},
+	"pin_shortcut": {
+		"message": "Pričvrsti rezultat"
+	},
+
+	"exit": {
+		"message": "Zatvori CSS Scan"
+	},
+	"pause": {
+		"message": "Pauziraj"
+	},
+	"continue": {
+		"message": "Nastavi"
+	},
+	"move": {
+		"message": "Pomjeri"
+	},
+	"shortcuts": {
+		"message": "Prečaci"
+	},
+	"feedback": {
+		"message": "Povratna informacija"
+	},
+	"options": {
+		"message": "Opcije"
+	},
+	"whats_new": {
+		"message": "Što ima novog"
+	},
+	"activate": {
+		"message": "Aktiviraj dodatak"
+	},
+	"close_shortcut": {
+		"message": "Zatvor dodatak"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "Zanemarite prefikse dobavljača preglednika"
+	},
+	"options_ignore_inherited": {
+		"message": "Zanemarite naslijeđene stilove"
+	},
+	"options_absolute_urls": {
+		"message": "Pretvorite relativne URL-ove u apsolutne"
+	},
+	"options_ignore_bxsizing": {
+		"message": "Zanemarite box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Skraćeni selektor"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "Pretvori mjere veličina fonta u px"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "Stranica treba biti fokusirana da bi prečaci radili. Uvijek je lakše otvoriti dodatak uz pomoć prečaca."
+	},
+	"shortcuts_warning_2": {
+		"message": "Možeš ih promijeniti tako što klikneš na to"
+	},
+
+	"options_label_click_action": {
+		"message": "Na klik:"
+	},
+	"options_click_to_pin": {
+		"message": "Pričvrstite CSS prozor"
+	},
+	"options_click_to_copy": {
+		"message": "Kopiraj kod"
+	},
+	"options_label_child_elements": {
+		"message": "CSS podređenih elemenata:"
+	},
+	"options_label_html": {
+		"message": "HTML kod:"
+	},
+	"options_label_display": {
+		"message": "Prikaz:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "Postavke kopiranja za CSS birače:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "Ostale postavke kopiranja:"
+	},
+
+	"options_dont_copy": {
+		"message": "Nemojte to kopirati"
+	},
+	"options_copy": {
+		"message": "Kopiraj"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "Kopiraj izvorne selektore (ali uklonite roditeljske birače)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "Pametno generirajte birače"
+	},
+
+	"options_nest_pseudos": {
+		"message": "Ugnijezdite pseudoklase, pseudoelemente i medijske upite (za SASS/LESS)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "Nemojte kopirati CSS selektore kada je to moguće"
+	},
+
+
+	"overlapping": {
+		"message": "preklapanje"
+	},
+	"hold": {
+		"message": "držite"
+	},
+	"click_traverse": {
+		"message": "i klik za poprijeko"
+	},
+	"no_styles": {
+		"message": "Stilovi nisu pronađeni"
+	},
+	"loading": {
+		"message": "Učitavanje stilova... Pokušaj opet"
+	},
+	"click_to_copy": {
+		"message": "Klik za kopiranje, razmak za pričvrstiti"
+	},
+	"copying": {
+		"message": "Kopiranje stilova svih podređenih elemenata...<br>Kliknite ponovno za odustajanje."
+	},
+	"copied": {
+		"message": "Kopirano u međuspremnik"
+	},
+
+	"ask_review": {
+		"message": "Uživate u CSS Scan-u? Pomozite nam s pregledom"
+	},
+
+	"context_menu": {
+		"message": "Pregledaj sa CSS Scan"
+	}
+}

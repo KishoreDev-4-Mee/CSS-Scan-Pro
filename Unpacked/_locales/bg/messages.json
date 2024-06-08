@@ -1,0 +1,160 @@
+{
+  "description": {
+    "message": "Бързо инспектиране и копиране на изчисления CSS"
+  },
+  "pause_continue": {
+    "message": "Пауза / Продължаване"
+  },
+  "scan_parent": {
+    "message": "Сканиране на родителския елемент"
+  },
+  "toggle_grid": {
+    "message": "Превключване на grid"
+  },
+  "pin_shortcut": {
+    "message": "Закрепване на резултата"
+  },
+
+  "exit": {
+    "message": "Затворете CSS Scan"
+  },
+  "pause": {
+    "message": "Пауза"
+  },
+  "continue": {
+    "message": "Продължи"
+  },
+  "move": {
+    "message": "Ход"
+  },
+  "shortcuts": {
+    "message": "Преки пътища"
+  },
+  "feedback": {
+    "message": "Обратна връзка"
+  },
+  "options": {
+    "message": "Настройки"
+  },
+  "whats_new": {
+    "message": "Какво ново"
+  },
+  "activate": {
+    "message": "Активирайте разширението"
+  },
+  "close_shortcut": {
+    "message": "Затворете разширението"
+  },
+
+  "options_ignore_prefixes": {
+    "message": "Игнорирайте префиксите на доставчика на браузъра"
+  },
+  "options_ignore_inherited": {
+    "message": "Игнорирайте наследените стилове"
+  },
+  "options_absolute_urls": {
+    "message": "Преобразувайте относителните URL адреси в абсолютни"
+  },
+  "options_ignore_bxsizing": {
+    "message": "Игнорирайте box-sizing"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Скъсен селектор"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "Преобразувайте мерната единица за размера на шрифта в px"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "Страницата трябва да е фокусирана, за да работят преките пътища. По-лесно е, ако винаги отваряте разширението чрез пряк път."
+  },
+  "shortcuts_warning_2": {
+    "message": "Можете също да ги промените, като кликнете върху него."
+  },
+
+
+  "options_label_click_action": {
+    "message": "При щракване:"
+  },
+  "options_click_to_pin": {
+    "message": "Закачете CSS прозореца"
+  },
+  "options_click_to_copy": {
+    "message": "Копирайте кода"
+  },
+  "options_label_child_elements": {
+    "message": "CSS на дъщерни елементи:"
+  },
+  "options_label_html": {
+    "message": "HTML код:"
+  },
+  "options_label_display": {
+    "message": "Дисплей:"
+  },
+  "options_label_copy_preferences_selectors": {
+    "message": "Предпочитания за копиране за CSS селектори:"
+  },
+  "options_label_other_copy_preferences": {
+    "message": "Други предпочитания за копиране:"
+  },
+
+  "options_dont_copy": {
+    "message": "Не го копирайте"
+  },
+  "options_copy": {
+    "message": "Копирай го"
+  },
+
+  "options_copy_original_selectors": {
+    "message": "Копирайте оригиналните селектори (но премахнете родителските селектори)"
+  },
+  "options_smartly_generate_selectors": {
+    "message": "Интелигентно генериране на селектори"
+  },
+
+  "options_nest_pseudos": {
+    "message": "Псевдокласове, псевдоелементи и медийни заявки (за SASS/LESS)"
+  },
+  "options_dont_copy_selectors_when_possible": {
+    "message": "Не копирайте CSS селектори, когато е възможно"
+  },
+
+  "overlapping": {
+    "message": "застъпване"
+  },
+  "hold": {
+    "message": "задръжте"
+  },
+  "click_traverse": {
+    "message": "и щракнете, за да преминете"
+  },
+  "no_styles": {
+    "message": "Не са намерени стилове"
+  },
+  "loading": {
+    "message": "Зареждане на стилове ... Опитайте отново"
+  },
+  "click_to_copy": {
+    "message": "Кликнете, за да копирате, натиснете интервал за закрепване"
+  },
+  "copying": {
+    "message": "Копиране на стилове на всички дъщерни елементи...<br>Щракнете отново, за да отмените."
+  },
+  "copied": {
+    "message": "Копирано в клипборда"
+  },
+
+  "ask_review": {
+    "message": "Наслаждавате се на CSS Scan? Помогнете ни с преглед"
+  },
+
+  "context_menu": {
+    "message": "Проверка с CSS Scan"
+  }
+}

@@ -1,0 +1,160 @@
+{
+	"description": {
+		"message": "به سرعت CSS محاسبه شده را بازرسی و کپی کنید"
+	},
+	"pause_continue": {
+		"message": "توقف / ادامه"
+	},
+	"scan_parent": {
+		"message": "اسکن عنصر والدین"
+	},
+	"toggle_grid": {
+		"message": "تنظیم گريد"
+	},
+	"pin_shortcut": {
+		"message": "نتیجه را پن کنید"
+	},
+
+	"exit": {
+		"message": "اسکن CSS را ببندید"
+	},
+	"pause": {
+		"message": "توقف"
+	},
+	"continue": {
+		"message": "ادامه "
+	},
+	"move": {
+		"message": "حرکت"
+	},
+	"shortcuts": {
+		"message": "میانبر"
+	},
+	"feedback": {
+		"message": "بازخورد"
+	},
+	"options": {
+		"message": "گزینه ها"
+	},
+	"whats_new": {
+		"message": "چه خبر"
+	},
+	"activate": {
+		"message": "برنامه افزودنی را فعال کنید"
+	},
+	"close_shortcut": {
+		"message": "برنامه افزودنی را ببندید"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "پیشوندهای فروشنده مرورگر را نادیده بگیرید"
+	},
+	"options_ignore_inherited": {
+		"message": "سبک های ارثی را نادیده بگیرید"
+	},
+	"options_absolute_urls": {
+		"message": "URL های نسبی را به مطلق تبدیل کنید"
+	},
+	"options_ignore_bxsizing": {
+		"message": "چشم پوشیدن box-sizing"
+	},
+	"options_show_grid": {
+		"message": "نشان دادن grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "انتخابگر کوتاه شده"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "واحدهای اندازه گیری اندازه قلم را به px تبدیل کنید"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "برای کارکردن کلید های میانبر باید صفحه را تمرکز کنید. اگر همیشه پسوند را با میانبر باز کنید ، ساده تر است."
+	},
+	"shortcuts_warning_2": {
+		"message": "همچنین می توانید با کلیک کردن بر روی آنها ، آنها را تغییر دهید."
+	},
+
+	"options_label_click_action": {
+		"message": "روی کلیک:"
+	},
+	"options_click_to_pin": {
+		"message": "پنجره CSS را پین کنید"
+	},
+	"options_click_to_copy": {
+		"message": "کد را کپی کنید"
+	},
+	"options_label_child_elements": {
+		"message": "CSS عناصر کودک:"
+	},
+	"options_label_html": {
+		"message": "کد HTML:"
+	},
+	"options_label_display": {
+		"message": "نمایش دادن:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "کپی کردن تنظیمات برگزیده برای انتخابگرهای CSS:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "سایر تنظیمات برگزیده کپی:"
+	},
+
+	"options_dont_copy": {
+		"message": "کپیش نکن"
+	},
+	"options_copy": {
+		"message": "آن را کپی کنید"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "انتخابگرهای اصلی را کپی کنید (اما انتخابگرهای والد را حذف کنید)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "انتخابگرها را هوشمندانه تولید کنید"
+	},
+
+	"options_nest_pseudos": {
+		"message": "شبه کلاس‌ها، شبه عناصر و جستارهای رسانه Nest (برای SASS/LESS)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "در صورت امکان از انتخابگرهای CSS کپی نکنید"
+	},
+
+	"overlapping": {
+		"message": "با هم تداخل دارند"
+	},
+	"hold": {
+		"message": "را نگه دارید"
+	},
+	"click_traverse": {
+		"message": "و برای گذر کلیک کنید"
+	},
+	"no_styles": {
+		"message": "هیچ سبکی یافت نشد"
+	},
+	"loading": {
+		"message": "بارگیری سبک ها ... دوباره امتحان کنید"
+	},
+	"click_to_copy": {
+		"message": "برای کپی کردن کلیک کنید ، space را برای پین کردن فشار دهید"
+	},
+	"copying": {
+		"message": "کپی کردن سبک‌های همه عناصر فرزند...<br>برای لغو دوباره کلیک کنید."
+	},
+	"copied": {
+		"message": "در کلیپ بورد کپی شد"
+	},
+
+	"ask_review": {
+		"message": "از CSS Scan لذت می برید؟ با بررسی به ما کمک کنید"
+	},
+
+	"context_menu": {
+		"message": "بازرسی با اسکن CSS"
+	}
+}

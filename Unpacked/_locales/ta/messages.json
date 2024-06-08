@@ -1,0 +1,161 @@
+{
+  "description": {
+    "message": "கணக்கிடப்பட்ட CSSயை விரைவாக ஆய்வு செய்து நகலெடு"
+  },
+  "pause_continue": {
+    "message": "காத்திறு / தொடங்கு"
+  },
+  "scan_parent": {
+    "message": "பேரண்ட் எலெமென்டை ஸ்கேன் செய்"
+  },
+  "toggle_grid": {
+    "message": "க்ரிட்டை காட்டு / மறை"
+  },
+  "pin_shortcut": {
+    "message": "முடிவை பின் பண்ணு"
+  },
+
+  "exit": {
+    "message": "CSS Scanஐ மூடு"
+  },
+  "pause": {
+    "message": "காத்திறு"
+  },
+  "continue": {
+    "message": "தொடங்கு"
+  },
+  "move": {
+    "message": "நகர்த்து"
+  },
+  "shortcuts": {
+    "message": "குறுக்குவழிகள்"
+  },
+  "feedback": {
+    "message": "பின்னூட்டம்"
+  },
+  "options": {
+    "message": "விருப்பங்கள்"
+  },
+  "whats_new": {
+    "message": "புதியது என்ன"
+  },
+  "activate": {
+    "message": "எக்ஸ்டென்ஷனை செயல்படுத்து"
+  },
+  "close_shortcut": {
+    "message": "எக்ஸ்டென்ஷனை மூடு"
+  },
+
+
+  "options_ignore_prefixes": {
+    "message": "உலாவி விற்பனையாளர் முன்னொட்டுகளைப் புறக்கணிக்கவும்"
+  },
+  "options_ignore_inherited": {
+    "message": "பரம்பரை பாணிகளை புறக்கணிக்கவும்"
+  },
+  "options_absolute_urls": {
+    "message": "தொடர்புடைய URLகளை முழுமையானதாக மாற்றவும்"
+  },
+  "options_ignore_bxsizing": {
+    "message": "box-sizingஐ புறக்கணி"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "துண்டிக்கப்பட்ட தேர்வாளர்"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "font-size அளவுகளை px க்கு மாற்று"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "குறுக்குவழிகள் வேலை செய்யனும் என்றால் பக்கத்திற்கு கவனம் இருக்க வேண்டும். எப்போதும்  எக்ஸ்டென்ஷனை குறுக்குவழியால் திறந்தால் எளிதாக இருக்கும்."
+  },
+  "shortcuts_warning_2": {
+    "message": "அவற்றை மாற்றனும் என்றால் அதை கிளிக் கூட செய்யலாம்"
+  },
+
+  "options_label_click_action": {
+    "message": "கிளிக் செய்யும் போது:"
+  },
+  "options_click_to_pin": {
+    "message": "CSS சாளரத்தை பின் செய்யவும்"
+  },
+  "options_click_to_copy": {
+    "message": "குறியீட்டை நகலெடுக்கவும்"
+  },
+  "options_label_child_elements": {
+    "message": "குழந்தை கூறுகளின் CSS:"
+  },
+  "options_label_html": {
+    "message": "HTML குறியீடு:"
+  },
+  "options_label_display": {
+    "message": "காட்சி:"
+  },
+  "options_label_copy_preferences_selectors": {
+    "message": "CSS தேர்வாளர்களுக்கான விருப்பங்களை நகலெடுக்கிறது:"
+  },
+  "options_label_other_copy_preferences": {
+    "message": "பிற நகலெடுக்கும் விருப்பத்தேர்வுகள்:"
+  },
+
+  "options_dont_copy": {
+    "message": "அதை நகலெடுக்க வேண்டாம்"
+  },
+  "options_copy": {
+    "message": "அதை நகலெடுக்கவும்"
+  },
+
+  "options_copy_original_selectors": {
+    "message": "அசல் தேர்விகளை நகலெடுக்கவும் (ஆனால் பெற்றோர் தேர்வாளர்களை அகற்றவும்)"
+  },
+  "options_smartly_generate_selectors": {
+    "message": "திறமையாக தேர்வாளர்களை உருவாக்குங்கள்"
+  },
+
+  "options_nest_pseudos": {
+    "message": "Nest போலி வகுப்புகள், போலி கூறுகள் மற்றும் மீடியா வினவல்கள் (SASS/LESSக்கு)"
+  },
+  "options_dont_copy_selectors_when_possible": {
+    "message": "முடிந்தால் CSS தேர்விகளை நகலெடுக்க வேண்டாம்"
+  },
+
+
+  "overlapping": {
+    "message": "ஒன்றின் மேல் ஒன்று"
+  },
+  "hold": {
+    "message": "பிடித்துக்கொள்"
+  },
+  "click_traverse": {
+    "message": "மற்றும் கிளிக் செய் கடந்து செல்வதற்காக"
+  },
+  "no_styles": {
+    "message": "பாணிகள் எதுவும் கிடைக்கவில்லை"
+  },
+  "loading": {
+    "message": "பாணிகள் ஏற்றப்படுகின்றன... மீண்டும் முயற்சி செய்"
+  },
+  "click_to_copy": {
+    "message": "நகலெடுக்க கிளிக் செய், பின் பண்ண ஸ்பேஸ் அழுத்து"
+  },
+  "copying": {
+    "message": "அனைத்து குழந்தை உறுப்புகளின் நடைகளையும் நகலெடுக்கிறது...<br>ரத்துசெய்ய மீண்டும் கிளிக் செய்யவும்."
+  },
+  "copied": {
+    "message": "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
+  },
+
+  "ask_review": {
+    "message": "CSS Scanஐ அனுபவிக்கிறீர்களா? மதிப்பாய்வில் எங்களுக்கு உதவவும்"
+  },
+
+  "context_menu": {
+    "message": "CSS Scan மூலம் ஆய்வு செய்"
+  }
+}

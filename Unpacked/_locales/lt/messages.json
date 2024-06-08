@@ -1,0 +1,161 @@
+{
+  "description": {
+    "message": "Greitai patikrinkite ir nukopijuokite apskaičiuotą CSS"
+  },
+  "pause_continue": {
+    "message": "Stabdyti / Tęsti"
+  },
+  "scan_parent": {
+    "message": "Nuskenuoti tėvinį elementą"
+  },
+  "toggle_grid": {
+    "message": "Perjungti tinklelį"
+  },
+  "pin_shortcut": {
+    "message": "Prisegti rezultatą"
+  },
+
+  "exit": {
+    "message": "Uždaryti „CSS Scan“"
+  },
+  "pause": {
+    "message": "Stabdyti"
+  },
+  "continue": {
+    "message": "Tęsti"
+  },
+  "move": {
+    "message": "Perkelti"
+  },
+  "shortcuts": {
+    "message": "Nuorodos"
+  },
+  "feedback": {
+    "message": "Atsiliepimai"
+  },
+  "options": {
+    "message": "Nustatymai"
+  },
+  "whats_new": {
+    "message": "Kas naujo"
+  },
+  "activate": {
+    "message": "Aktyvuoti plėtinį"
+  },
+  "close_shortcut": {
+    "message": "Uždaryti plėtinį"
+  },
+
+
+  "options_ignore_prefixes": {
+    "message": "Nepaisykite naršyklės pardavėjo priešdėlių"
+  },
+  "options_ignore_inherited": {
+    "message": "Nepaisykite paveldėtų stilių"
+  },
+  "options_absolute_urls": {
+    "message": "Konvertuoti santykinius URL į absoliučius"
+  },
+  "options_ignore_bxsizing": {
+    "message": "Ignoruoti box-sizing"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Sutrumpintas parinkiklis"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "Konvertuoti font-size matavimo vienetus į px"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "Norint kad veiktų spartieji klavišai, puslapis turi būti sufokusuotas. Jums bus patogiau jei plėtinį atidarinėsite per nuorodą."
+  },
+  "shortcuts_warning_2": {
+    "message": "Jūs taip pat galite juos pakeisti spustelėdami ant jų."
+  },
+
+  "options_label_click_action": {
+    "message": "Paspaudus:"
+  },
+  "options_click_to_pin": {
+    "message": "Prisekite CSS langą"
+  },
+  "options_click_to_copy": {
+    "message": "Nukopijuokite kodą"
+  },
+  "options_label_child_elements": {
+    "message": "Antrinių elementų CSS:"
+  },
+  "options_label_html": {
+    "message": "HTML kodas:"
+  },
+  "options_label_display": {
+    "message": "Ekranas:"
+  },
+  "options_label_copy_preferences_selectors": {
+    "message": "CSS parinktuvų kopijavimo nuostatos:"
+  },
+  "options_label_other_copy_preferences": {
+    "message": "Kitos kopijavimo nuostatos:"
+  },
+
+  "options_dont_copy": {
+    "message": "Nekopijuokite"
+  },
+  "options_copy": {
+    "message": "Nukopijuokite jį"
+  },
+
+  "options_copy_original_selectors": {
+    "message": "Kopijuoti pradinius parinkiklius (bet pašalinti pirminius parinkiklius)"
+  },
+  "options_smartly_generate_selectors": {
+    "message": "Protingai generuokite selektorius"
+  },
+
+  "options_nest_pseudos": {
+    "message": "Įdėkite pseudoklases, pseudoelementus ir medijos užklausas (skirta SASS/LESS)"
+  },
+  "options_dont_copy_selectors_when_possible": {
+    "message": "Jei įmanoma, nekopijuokite CSS parinktuvų"
+  },
+
+
+  "overlapping": {
+    "message": "persidengiantys"
+  },
+  "hold": {
+    "message": "Laikykite"
+  },
+  "click_traverse": {
+    "message": "ir spustelėkite norėdami peržiūrėti"
+  },
+  "no_styles": {
+    "message": "Nepavyko rasti stilių"
+  },
+  "loading": {
+    "message": "Stiliai kraunami... Bandykite dar kartą"
+  },
+  "click_to_copy": {
+    "message": "Spustelėkite, norėdami nukopijuoti, paspauskite tarpą, norėdami prisegti"
+  },
+  "copying": {
+    "message": "Kopijuojami visų antrinių elementų stiliai...<br>Jei norite atšaukti, spustelėkite dar kartą."
+  },
+  "copied": {
+    "message": "Nukopijuota į iškarpinę"
+  },
+
+  "ask_review": {
+    "message": "Mėgaukitės CSS Scan? Padėkite mums pateikti apžvalgą"
+  },
+
+  "context_menu": {
+    "message": "Patikrinkite su „CSS Scan“"
+  }
+}

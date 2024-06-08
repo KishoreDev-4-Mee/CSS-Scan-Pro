@@ -1,0 +1,161 @@
+{
+	"description": {
+		"message": "افحص و انسخ أنماط ال CSS"
+	},
+	"pause_continue": {
+		"message": "إيقاف / استمرار"
+	},
+	"scan_parent": {
+		"message": "افحص العنصر الأب"
+	},
+	"toggle_grid": {
+		"message": "تبديل ظهور شبكة المربعات"
+	},
+	"pin_shortcut": {
+		"message": "ثبت النتيجة"
+	},
+
+	"exit": {
+		"message": "أغلق فاحص ال CSS"
+	},
+	"pause": {
+		"message": "إيقاف"
+	},
+	"continue": {
+		"message": "استمرار"
+	},
+	"move": {
+		"message": "حرَك"
+	},
+	"shortcuts": {
+		"message": "اختصارات"
+	},
+	"feedback": {
+		"message": "الملاحظات"
+	},
+	"options": {
+		"message": "خيارات"
+	},
+	"whats_new": {
+		"message": "ما هو الجديد"
+	},
+	"activate": {
+		"message": "فعَل الإضافة"
+	},
+	"close_shortcut": {
+		"message": "أغلق الإضافة"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "تجاهل بادئات بائع المتصفح"
+	},
+	"options_ignore_inherited": {
+		"message": "تجاهل الأنماط الموروثة"
+	},
+	"options_absolute_urls": {
+		"message": "تحويل عناوين URL النسبية إلى مطلقة"
+	},
+	"options_ignore_bxsizing": {
+		"message": "تجاهل box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "محدد مقطوع"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "حول وحدة حجم الخط الى بكسل px"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "تحتاج الصفحة أن تكون مركزة بالنقرعليها لتشغيل الإضافة. من الأفضل أن تفتح الإضافة دائما عن طريق مفتاح الإختصار"
+	},
+	"shortcuts_warning_2": {
+		"message": "تستطيع تغييرهم دائمًا عن طريق الضغط عليهم"
+	},
+
+	"options_label_click_action": {
+		"message": ":عند النقر"
+	},
+	"options_click_to_pin": {
+		"message": "ثبّت نافذة CSS"
+	},
+	"options_click_to_copy": {
+		"message": "رمز النسخ"
+	},
+	"options_label_child_elements": {
+		"message": "CSS للعناصر الفرعية:"
+	},
+	"options_label_html": {
+		"message": ":كود HTML"
+	},
+	"options_label_display": {
+		"message": "عرض:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "نسخ التفضيلات لمحددات CSS:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "تفضيلات النسخ الأخرى:"
+	},
+
+	"options_dont_copy": {
+		"message": "لا تنسخه"
+	},
+	"options_copy": {
+		"message": "انسخه"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "نسخ المحددات الأصلية (لكن قم بإزالة المحددات الرئيسية)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "إنشاء المحددات بذكاء"
+	},
+
+	"options_nest_pseudos": {
+		"message": "استعلامات فئات العش الزائفة والعناصر الزائفة والوسائط (لـ SASS / LESS)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "لا تنسخ محددات CSS عندما يكون ذلك ممكنًا"
+	},
+
+
+	"overlapping": {
+		"message": "متداخلة مع بعض"
+	},
+	"hold": {
+		"message": "اضغط و ثبت زر"
+	},
+	"click_traverse": {
+		"message": "و انقر للعبور"
+	},
+	"no_styles": {
+		"message": "لا توجد أنماط"
+	},
+	"loading": {
+		"message": "جاري تحميل الأنماط.. حاول مرة أخرى"
+	},
+	"click_to_copy": {
+		"message": "انقر للنسخ ، اضغط زر المسافة للتثبيت"
+	},
+	"copying": {
+		"message": "جاري نسخ أنماط جميع العناصر الفرعية ... <br> انقر مرة أخرى للإلغاء."
+	},
+	"copied": {
+		"message": "تم النسخ الى الحافظة"
+	},
+
+	"ask_review": {
+		"message": "ههل تستمتع بـ CSS Scan؟ ساعدنا بالمراجعة"
+	},
+
+	"context_menu": {
+		"message": "افحص المحتوى ب CSS Scan"
+	}
+}

@@ -1,0 +1,161 @@
+{
+  "description": {
+    "message": "Inspektera och kopiera CSS"
+  },
+  "pause_continue": {
+    "message": "Pausa / Fortsätt"
+  },
+  "scan_parent": {
+    "message": "Skanna föräldra-element"
+  },
+  "toggle_grid": {
+    "message": "Växla grid"
+  },
+  "pin_shortcut": {
+    "message": "Pin box"
+  },
+
+  "exit": {
+    "message": "Stäng av CSS Scan"
+  },
+  "pause": {
+    "message": "Pausa"
+  },
+  "continue": {
+    "message": "Fortsätt"
+  },
+  "move": {
+    "message": "Flytta"
+  },
+  "shortcuts": {
+    "message": "Genvägar"
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "options": {
+    "message": "Inställningar"
+  },
+  "whats_new": {
+    "message": "Vad är nytt"
+  },
+  "activate": {
+    "message": "Aktivera tillägg"
+  },
+  "close_shortcut": {
+    "message": "Stäng av tillägg"
+  },
+
+
+  "options_ignore_prefixes": {
+    "message": "Ignorera webbläsarleverantörens prefix"
+  },
+  "options_ignore_inherited": {
+    "message": "Ignorera ärvda stilar"
+  },
+  "options_absolute_urls": {
+    "message": "Konvertera relativa webbadresser till absoluta"
+  },
+  "options_ignore_bxsizing": {
+    "message": "Ignorera box-sizing"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Trunkerad väljare"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "Konvertera måttenheter för teckensnittsstorlek till px"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "Sidan måste vara fokuserad för att genvägar ska fungera. Det är enklare om du alltid öppnar CSS Scan med genvägs-knappen."
+  },
+  "shortcuts_warning_2": {
+    "message": "Du kan också ändra genom att klicka på dom"
+  },
+
+  "options_label_click_action": {
+    "message": "Vid klick:"
+  },
+  "options_click_to_pin": {
+    "message": "Fäst CSS-fönstret"
+  },
+  "options_click_to_copy": {
+    "message": "Kopiera kod"
+  },
+  "options_label_child_elements": {
+    "message": "CSS för underordnade element:"
+  },
+  "options_label_html": {
+    "message": "HTML-kod:"
+  },
+  "options_label_display": {
+    "message": "Visa:"
+  },
+  "options_label_copy_preferences_selectors": {
+    "message": "Kopieringsinställningar för CSS-väljare:"
+  },
+  "options_label_other_copy_preferences": {
+    "message": "Andra kopieringsinställningar:"
+  },
+
+  "options_dont_copy": {
+    "message": "Kopiera det inte"
+  },
+  "options_copy": {
+    "message": "Kopiera det"
+  },
+
+  "options_copy_original_selectors": {
+    "message": "Kopiera originalväljare (men ta bort överordnade väljare)"
+  },
+  "options_smartly_generate_selectors": {
+    "message": "Generera väljare på ett smart sätt"
+  },
+
+  "options_nest_pseudos": {
+    "message": "Nest pseudo-klasser, pseudo-element och mediefrågor (för SASS/LESS)"
+  },
+  "options_dont_copy_selectors_when_possible": {
+    "message": "Kopiera inte CSS-väljare när det är möjligt"
+  },
+
+
+  "overlapping": {
+    "message": "överlappande"
+  },
+  "hold": {
+    "message": "håll"
+  },
+  "click_traverse": {
+    "message": "och klicka för att korsa"
+  },
+  "no_styles": {
+    "message": "Ingen CSS stil hittad"
+  },
+  "loading": {
+    "message": "Laddar stilar... Försök igen"
+  },
+  "click_to_copy": {
+    "message": "Klicka för att kopiera, tryck mellanslag för att fästa"
+  },
+  "copying": {
+    "message": "Kopierar stilar för alla underordnade element...<br>Klicka igen för att avbryta."
+  },
+  "copied": {
+    "message": "Kopierad till clipboard"
+  },
+
+  "ask_review": {
+    "message": "Gillar du CSS Scan? Hjälp oss med en recension"
+  },
+
+  "context_menu": {
+    "message": "Inspektera med CSS Scan"
+  }
+}

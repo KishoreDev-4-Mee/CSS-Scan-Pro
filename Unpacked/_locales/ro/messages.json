@@ -1,0 +1,161 @@
+{
+	"description": {
+		"message": "Cel mai rapid mod de a verifica, copia și edita CSS."
+	},
+	"pause_continue": {
+		"message": "Pauză / Continuă"
+	},
+	"scan_parent": {
+		"message": "Scanează elementul părinte"
+	},
+	"toggle_grid": {
+		"message": "Comută grid"
+	},
+	"pin_shortcut": {
+		"message": "Fixează rezultatul"
+	},
+
+	"exit": {
+		"message": "Închide CSS Scan"
+	},
+	"pause": {
+		"message": "Pauză"
+	},
+	"continue": {
+		"message": "Continuă"
+	},
+	"move": {
+		"message": "Mută"
+	},
+	"shortcuts": {
+		"message": "Scurtături"
+	},
+	"feedback": {
+		"message": "Feedback"
+	},
+	"options": {
+		"message": "Opțiuni"
+	},
+	"whats_new": {
+		"message": "Ce mai e nou"
+	},
+	"activate": {
+		"message": "Activează extensia"
+	},
+	"close_shortcut": {
+		"message": "Închide extensia"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "Ignoră browser vendor prefixes"
+	},
+	"options_ignore_inherited": {
+		"message": "Ignoră inherited styles"
+	},
+	"options_absolute_urls": {
+		"message": "Convertiți adresele URL relative în absolute"
+	},
+	"options_ignore_bxsizing": {
+		"message": "Ignoră box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Selector trunchiat"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "Convertește unitatea de măsură pentru font-size la px"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "Pagina trebuie să fie focusată pentru ca scurtăturile să funcționeze. E mai ușor dacă deschizi extensia de fiecare dată cu ajutorul scurtăturii."
+	},
+	"shortcuts_warning_2": {
+		"message": "Poți de asemenea să modifici dând click."
+	},
+
+	"options_label_click_action": {
+		"message": "La click:"
+	},
+	"options_click_to_pin": {
+		"message": "Fixează fereastra CSS"
+	},
+	"options_click_to_copy": {
+		"message": "Copiază codul"
+	},
+	"options_label_child_elements": {
+		"message": "CSS-ul elementelor copil:"
+	},
+	"options_label_html": {
+		"message": "Cod HTML:"
+	},
+	"options_label_display": {
+		"message": "Afişa:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "Copierea preferințelor pentru selectoarele CSS:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "Alte preferințe de copiere:"
+	},
+
+	"options_dont_copy": {
+		"message": "Nu-l copia"
+	},
+	"options_copy": {
+		"message": "Copiați-l"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "Copiați selectoarele originale (dar eliminați selectoarele părinte)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "Generați în mod inteligent selectori"
+	},
+
+	"options_nest_pseudos": {
+		"message": "Imbricați pseudoclase, pseudoelemente și interogări media (pentru SASS/LESS)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "Nu copiați selectoarele CSS atunci când este posibil"
+	},
+
+
+	"overlapping": {
+		"message": "suprapus"
+	},
+	"hold": {
+		"message": "ține apăsat"
+	},
+	"click_traverse": {
+		"message": "și dă click pentru a parcurge"
+	},
+	"no_styles": {
+		"message": "Niciun stil găsit"
+	},
+	"loading": {
+		"message": "Stilurile se încarcă... Încearcă din nou"
+	},
+	"click_to_copy": {
+		"message": "Dă click pentru a copia, apasă spațiu pentru a fixa"
+	},
+	"copying": {
+		"message": "Se copiează stilurile tuturor elementelor secundare...<br>Faceți clic din nou pentru a anula."
+	},
+	"copied": {
+		"message": "Copiat la clipbard"
+	},
+
+	"ask_review": {
+		"message": "Îți place CSS Scan? Ajutați-ne cu o recenzie"
+	},
+
+	"context_menu": {
+		"message": "Inspectează cu CSS Scan"
+	}
+}

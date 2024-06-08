@@ -1,0 +1,161 @@
+{
+  "description": {
+    "message": "Hızlıca CSS özelliklerini incele ve kopyala"
+  },
+  "pause_continue": {
+    "message": "Duraklat / Devam et"
+  },
+  "scan_parent": {
+    "message": "Ana elementi tara"
+  },
+  "toggle_grid": {
+    "message": "Grid'i gizle"
+  },
+  "pin_shortcut": {
+    "message": "Sonucu sabitle"
+  },
+
+  "exit": {
+    "message": "CSS Scan'ı kapat"
+  },
+  "pause": {
+    "message": "Duraklat"
+  },
+  "continue": {
+    "message": "Devam et"
+  },
+  "move": {
+    "message": "Hareket et"
+  },
+  "shortcuts": {
+    "message": "Kısayollar"
+  },
+  "feedback": {
+    "message": "Geri bildirim"
+  },
+  "options": {
+    "message": "Ayarlar"
+  },
+  "whats_new": {
+    "message": "Ne var ne yok"
+  },
+  "activate": {
+    "message": "Eklentiyi aktifleştir"
+  },
+  "close_shortcut": {
+    "message": "Eklentiyi kapat"
+  },
+
+
+  "options_ignore_prefixes": {
+    "message": "Tarayıcı satıcı öneklerini yoksay"
+  },
+  "options_ignore_inherited": {
+    "message": "Devralınan stilleri yoksay"
+  },
+  "options_absolute_urls": {
+    "message": "Göreli URL'leri mutlak olarak dönüştürün"
+  },
+  "options_ignore_bxsizing": {
+    "message": "box-sizing'i geçersiz kıl"
+  },
+  "options_show_grid": {
+    "message": "Grid'i göster"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "Class isimlerini kes"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "font-size değerlerini px değerine hesaplayarak çevir"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "Kısayolların çalışması için sayfanın aktif olmasi gerekiyor. Uzantıyı her zaman kısayolla açarsanız daha pratik olur."
+  },
+  "shortcuts_warning_2": {
+    "message": "Üzerine tıklayarak da değiştirebilirsiniz."
+  },
+
+  "options_label_click_action": {
+    "message": "Tıklamada:"
+  },
+  "options_click_to_pin": {
+    "message": "CSS penceresini sabitleyin"
+  },
+  "options_click_to_copy": {
+    "message": "Kodu kopyala"
+  },
+  "options_label_child_elements": {
+    "message": "Alt öğelerin CSS'si:"
+  },
+  "options_label_html": {
+    "message": "HTML Kodu:"
+  },
+  "options_label_display": {
+    "message": "Görüntülemek:"
+  },
+  "options_label_copy_preferences_selectors": {
+    "message": "CSS seçicileri için kopyalama tercihleri:"
+  },
+  "options_label_other_copy_preferences": {
+    "message": "Diğer kopyalama tercihleri:"
+  },
+
+  "options_dont_copy": {
+    "message": "Kopyalamayın"
+  },
+  "options_copy": {
+    "message": "Kopyala"
+  },
+
+  "options_copy_original_selectors": {
+    "message": "Orijinal seçicileri kopyalayın (ancak ana seçicileri kaldırın)"
+  },
+  "options_smartly_generate_selectors": {
+    "message": "Akıllıca seçiciler oluşturun"
+  },
+
+  "options_nest_pseudos": {
+    "message": "Sözde sınıfları, sözde öğeleri ve medya sorgularını iç içe yerleştirme (SASS/LESS için)"
+  },
+  "options_dont_copy_selectors_when_possible": {
+    "message": "Mümkün olduğunda CSS seçicilerini kopyalamayın"
+  },
+
+
+  "overlapping": {
+    "message": "örtüşen"
+  },
+  "hold": {
+    "message": "hold"
+  },
+  "click_traverse": {
+    "message": "and click to traverse"
+  },
+  "no_styles": {
+    "message": "Stil bulunamadı"
+  },
+  "loading": {
+    "message": "Stiller yükleniyor... Tekrar deneyin"
+  },
+  "click_to_copy": {
+    "message": "Kopyalamak için tıklayın, sabitlemek için boşluk tuşuna basın"
+  },
+  "copying": {
+    "message": "Tüm alt öğelerin stilleri kopyalanıyor...<br>İptal etmek için tekrar tıklayın."
+  },
+  "copied": {
+    "message": "Panoya kopyalandı"
+  },
+
+  "ask_review": {
+    "message": "CSS Scan'den hoşlanıyor musunuz? Bir inceleme ile bize yardımcı olun"
+  },
+
+  "context_menu": {
+    "message": "CSS Scan ile inceleyin"
+  }
+}

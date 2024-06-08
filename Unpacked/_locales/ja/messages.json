@@ -1,0 +1,161 @@
+{
+	"description": {
+		"message": "簡単でスピーディにCSSを検証＆コピーできるツール."
+	},
+	"pause_continue": {
+		"message": "停止／再開"
+	},
+	"scan_parent": {
+		"message": "親要素をスキャンする"
+	},
+	"toggle_grid": {
+		"message": "グリッドを表示"
+	},
+	"pin_shortcut": {
+		"message": "Pin result"
+	},
+
+	"exit": {
+		"message": "CSS Scan を閉じる"
+	},
+	"pause": {
+		"message": "停止"
+	},
+	"continue": {
+		"message": "再開"
+	},
+	"move": {
+		"message": "移動"
+	},
+	"shortcuts": {
+		"message": "ショートカット"
+	},
+	"feedback": {
+		"message": "フィードバック"
+	},
+	"options": {
+		"message": "オプション"
+	},
+	"whats_new": {
+		"message": "アップデート情報"
+	},
+	"activate": {
+		"message": "機能を有効にする"
+	},
+	"close_shortcut": {
+		"message": "エクステンションを閉じる"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "ベンダー接頭辞を無視する"
+	},
+	"options_ignore_inherited": {
+		"message": "継承されたスタイルを無視する"
+	},
+	"options_absolute_urls": {
+		"message": "相対URLを絶対URLに変換する"
+	},
+	"options_ignore_bxsizing": {
+		"message": "box-sizingを無視する"
+	},
+	"options_show_grid": {
+		"message": "グリッド"
+	},
+	"options_guidelines": {
+		"message": "ガイドライン"
+	},
+	"options_truncate_classes": {
+		"message": "切り取られたセレクタ"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "font-sizeの単位をpxに変換する"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "ショートカットを使うには、ページにフォーカスされている必要があります。ショートカットで拡張機能を使うことが多い場合に便利です。"
+	},
+	"shortcuts_warning_2": {
+		"message": "また、クリックすることでも変更できます。"
+	},
+
+	"options_label_click_action": {
+		"message": "クリックの動作設定:"
+	},
+	"options_click_to_pin": {
+		"message": "CSSウィンドウを固定する"
+	},
+	"options_click_to_copy": {
+		"message": "スタイルをコピーする"
+	},
+	"options_label_child_elements": {
+		"message": "子要素のCSS："
+	},
+	"options_label_html": {
+		"message": "HTMLコードの設定:"
+	},
+	"options_label_display": {
+		"message": "表示:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "CSSセレクターの設定のコピー："
+	},
+	"options_label_other_copy_preferences": {
+		"message": "その他のコピー設定："
+	},
+
+	"options_dont_copy": {
+		"message": "コピーしないでください"
+	},
+	"options_copy": {
+		"message": "コピーする"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "元のセレクターをコピーします（ただし、親セレクターは削除します）"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "セレクターをスマートに生成"
+	},
+
+	"options_nest_pseudos": {
+		"message": "ネスト疑似クラス、疑似要素、およびメディアクエリ（SASS / LESSの場合）"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "可能な場合はCSSセレクターをコピーしないでください"
+	},
+
+
+	"overlapping": {
+		"message": "overlapping"
+	},
+	"hold": {
+		"message": "を押したまま"
+	},
+	"click_traverse": {
+		"message": "クリックをすることで親要素に範囲を広げられます"
+	},
+	"no_styles": {
+		"message": "スタイルが見つかりません"
+	},
+	"loading": {
+		"message": "スタイルをロード中… 再試行してください"
+	},
+	"click_to_copy": {
+		"message": "クリックでコピーし、スペースを押すと表示が固定されます"
+	},
+	"copying": {
+		"message": "すべての子要素のスタイルをコピーしています...<br>もう一度クリックしてキャンセルします。"
+	},
+	"copied": {
+		"message": "クリップボードにコピーしました"
+	},
+
+	"ask_review": {
+		"message": "CSS Scanを楽しんでいますか？ レビューを手伝ってください"
+	},
+
+	"context_menu": {
+		"message": "CSS Scanで検証する"
+	}
+}

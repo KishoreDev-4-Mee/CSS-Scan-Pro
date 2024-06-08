@@ -1,0 +1,161 @@
+{
+	"description": {
+		"message": "계산된 CSS를 신속하게 검사, 복사"
+	},
+	"pause_continue": {
+		"message": "일지 중지 / 계속"
+	},
+	"scan_parent": {
+		"message": "상위 요소 검색"
+	},
+	"toggle_grid": {
+		"message": "그리드 토글"
+	},
+	"pin_shortcut": {
+		"message": "Pin box"
+	},
+
+	"exit": {
+		"message": "CSS Scan 닫기"
+	},
+	"pause": {
+		"message": "일시 중지"
+	},
+	"continue": {
+		"message": "계속"
+	},
+	"move": {
+		"message": "이동"
+	},
+	"shortcuts": {
+		"message": "단축키"
+	},
+	"feedback": {
+		"message": "피드백"
+	},
+	"options": {
+		"message": "옵션"
+	},
+	"whats_new": {
+		"message": "새로운 소식"
+	},
+	"activate": {
+		"message": "확장 프로그램 활성화"
+	},
+	"close_shortcut": {
+		"message": "확장 프로그램 닫기"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "브라우저 공급업체 접두사 무시"
+	},
+	"options_ignore_inherited": {
+		"message": "상속된 스타일 무시"
+	},
+	"options_absolute_urls": {
+		"message": "상대 URL을 절대 URL로 변환"
+	},
+	"options_ignore_bxsizing": {
+		"message": "box-sizing 무시"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "잘린 선택기"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "글꼴 크기 측정 단위를 px로 변환"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "단축키로 확장 프로그램을 여는 것이 더 쉽습니다. 단축키를 사용법을 기억하시길 바랍니다."
+	},
+	"shortcuts_warning_2": {
+		"message": "클릭을 통해 변경할 수 있습니다."
+	},
+
+	"options_label_click_action": {
+		"message": "클릭 시:"
+	},
+	"options_click_to_pin": {
+		"message": "CSS 창 고정"
+	},
+	"options_click_to_copy": {
+		"message": "코드 복사"
+	},
+	"options_label_child_elements": {
+		"message": "자식 요소의 CSS:"
+	},
+	"options_label_html": {
+		"message": "HTML 코드:"
+	},
+	"options_label_display": {
+		"message": "표시하다:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "CSS 선택기의 기본 설정 복사:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "기타 복사 기본 설정:"
+	},
+
+	"options_dont_copy": {
+		"message": "복사하지 마세요"
+	},
+	"options_copy": {
+		"message": "복사"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "원본 선택기 복사(그러나 상위 선택기는 제거)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "스마트하게 선택기 생성"
+	},
+
+	"options_nest_pseudos": {
+		"message": "중첩 의사 클래스, 의사 요소 및 미디어 쿼리(SASS/LESS용)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "가능하면 CSS 선택기를 복사하지 마십시오"
+	},
+
+
+	"overlapping": {
+		"message": "중첩"
+	},
+	"hold": {
+		"message": "대기"
+	},
+	"click_traverse": {
+		"message": "을 (를) 클릭하여 트래버스합니다."
+	},
+	"no_styles": {
+		"message": "스타일을 찾을 수 없습니다."
+	},
+	"loading": {
+		"message": "스타일 로딩 중...다시 시도하세요."
+	},
+	"click_to_copy": {
+		"message": "클릭해서 복사하고, 빈 공간을 눌러 붙여 넣으세요."
+	},
+	"copying": {
+		"message": "すべての子要素のスタイルをコピーしています...<br>もう一度クリックしてキャンセルします。"
+	},
+	"copied": {
+		"message": "클립 보드에 복사됨"
+	},
+
+	"ask_review": {
+		"message": "CSS Scan이 마음에 드시나요? 리뷰를 도와주세요"
+	},
+
+	"context_menu": {
+		"message": "CSS Scan 으로 검사"
+	}
+}

@@ -1,0 +1,161 @@
+{
+  "description": {
+    "message": "संगणित CSS को  तुरंत जांचे एवं कॉपी करें"
+  },
+  "pause_continue": {
+    "message": "रुकें/जारी रखें"
+  },
+  "scan_parent": {
+    "message": "पैरेंट एलिमेंट को स्कैन करें"
+  },
+  "toggle_grid": {
+    "message": "ग्रिड (grid) चालू/बंद करें"
+  },
+  "pin_shortcut": {
+    "message": "रिजल्ट को पिन करें"
+  },
+
+  "exit": {
+    "message": "CSS Scan को बंद करें"
+  },
+  "pause": {
+    "message": "रुकें"
+  },
+  "continue": {
+    "message": "जारी रखें"
+  },
+  "move": {
+    "message": "खिसकाएं"
+  },
+  "shortcuts": {
+    "message": "शॉर्टकट्स"
+  },
+  "feedback": {
+    "message": "अभिप्राय"
+  },
+  "options": {
+    "message": "पर्याय"
+  },
+  "whats_new": {
+    "message": "नया क्या है"
+  },
+  "activate": {
+    "message": "एक्सटेंशन को सक्रिय करें"
+  },
+  "close_shortcut": {
+    "message": "एक्सटेंशन को बंद करें"
+  },
+
+
+  "options_ignore_prefixes": {
+    "message": "ब्राउज़र विक्रेता उपसर्गों पर ध्यान न दें"
+  },
+  "options_ignore_inherited": {
+    "message": "विरासत में मिली शैलियों पर ध्यान न दें"
+  },
+  "options_absolute_urls": {
+    "message": "सापेक्ष URL को निरपेक्ष में बदलें"
+  },
+  "options_ignore_bxsizing": {
+    "message": "box-sizing नज़रअंदाज़ करें"
+  },
+  "options_show_grid": {
+    "message": "Grid"
+  },
+  "options_guidelines": {
+    "message": "Guidelines"
+  },
+  "options_truncate_classes": {
+    "message": "छोटा चयनकर्ता"
+  },
+  "options_convert_fontsize_to_px": {
+    "message": "font-size मात्रां का px में परिवर्तन करें"
+  },
+
+  "shortcuts_warning_1": {
+    "message": "शॉर्टकट्स काम करने के लिए पेज फोकस में होना आवश्यक है। यदि आप हमेशा शॉर्टकट द्वारा एक्सटेंशन खोलते हैं तो यह ज्यादा आसान है"
+  },
+  "shortcuts_warning_2": {
+    "message": "आप उन पर क्लिक करके भी उन्हें बदल सकते हैं"
+  },
+
+  "options_label_click_action": {
+    "message": "क्लिक पर:"
+  },
+  "options_click_to_pin": {
+    "message": "CSS विंडो पिन करें"
+  },
+  "options_click_to_copy": {
+    "message": "कॉपी कोड"
+  },
+  "options_label_child_elements": {
+    "message": "बाल तत्व 'सीएसएस:"
+  },
+  "options_label_html": {
+    "message": "HTML कोड:"
+  },
+  "options_label_display": {
+    "message": "दिखाना:"
+  },
+  "options_label_copy_preferences_selectors": {
+    "message": "CSS चयनकर्ताओं के लिए प्राथमिकताएँ कॉपी करना:"
+  },
+  "options_label_other_copy_preferences": {
+    "message": "अन्य प्रतिलिपि वरीयताएँ:"
+  },
+
+  "options_dont_copy": {
+    "message": "इसे कॉपी न करें"
+  },
+  "options_copy": {
+    "message": "इसे कॉपी करें"
+  },
+
+  "options_copy_original_selectors": {
+    "message": "मूल चयनकर्ताओं की प्रतिलिपि बनाएँ (लेकिन मूल चयनकर्ताओं को हटा दें)"
+  },
+  "options_smartly_generate_selectors": {
+    "message": "चयनकर्ताओं को स्मार्ट तरीके से जनरेट करें"
+  },
+
+  "options_nest_pseudos": {
+    "message": "नेस्ट छद्म वर्ग, छद्म तत्व, और मीडिया प्रश्न (एसएएसएस/कम के लिए)"
+  },
+  "options_dont_copy_selectors_when_possible": {
+    "message": "जब भी संभव हो CSS चयनकर्ताओं को कॉपी न करें"
+  },
+
+
+  "overlapping": {
+    "message": "परस्पर-व्यापक"
+  },
+  "hold": {
+    "message": "दबाए रखें "
+  },
+  "click_traverse": {
+    "message": "और पार करने के लिए क्लिक करें"
+  },
+  "no_styles": {
+    "message": "कोई styles नहीं मिली"
+  },
+  "loading": {
+    "message": "styles लोड हो रही है... पुनः प्रयास करें"
+  },
+  "click_to_copy": {
+    "message": "कॉपी करने के लिए क्लिक करें, पिन करने के लिए स्पेस दबाएं"
+  },
+  "copying": {
+    "message": "सभी चाइल्ड एलीमेंट की शैलियां कॉपी की जा रही हैं...<br>रद्द करने के लिए फिर से क्लिक करें।"
+  },
+  "copied": {
+    "message": "क्लिपबोर्ड पर कॉपी किया"
+  },
+
+  "ask_review": {
+    "message": "CSS Scan का आनंद ले रहे हैं? समीक्षा में हमारी सहायता करें"
+  },
+
+  "context_menu": {
+    "message": "CSS Scan से जांच करें"
+  }
+}

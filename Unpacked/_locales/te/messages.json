@@ -1,0 +1,161 @@
+{
+	"description": {
+		"message": "తనిఖీ  ,కాపీ మరియు మార్చండి ,  వేగంగా - సులువుగా ."
+	},
+	"pause_continue": {
+		"message": "విరామం/కొనసాగించండి"
+	},
+	"scan_parent": {
+		"message": "అంశం మూలాల్ని  అన్వేషిచండి"
+	},
+	"toggle_grid": {
+		"message": "టోగుల్ గ్రిడ్"
+	},
+	"pin_shortcut": {
+		"message": "ఫలితమును పిన్ చేయండి"
+	},
+
+	"exit": {
+		"message": "సి ఎస్ ఎస్ స్కాన్(CSS Scan) ను మూసివేయండి"
+	},
+	"pause": {
+		"message": "విరామం"
+	},
+	"continue": {
+		"message": "కొనసాగించండి"
+	},
+	"move": {
+		"message": "కదిలించండి"
+	},
+	"shortcuts": {
+		"message": "సత్వరమార్గాలు"
+	},
+	"feedback": {
+		"message": "అభిప్రాయం తెలియజేయండి"
+	},
+	"options": {
+		"message": "ఎంపికలు"
+	},
+	"whats_new": {
+		"message": "What's New"
+	},
+	"activate": {
+		"message": "ఎక్స్టెన్షన్ ను ఆక్టివేట్ చేయండి"
+	},
+	"close_shortcut": {
+		"message": "ఎక్స్టెన్షన్  ను మూసివేయండి"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "విక్రయ దారుడి ఉపసర్గలను విస్మరించండి"
+	},
+	"options_ignore_inherited": {
+		"message": "వారసత్వంగా వచ్చిన శైలులను విస్మరించండి"
+	},
+	"options_absolute_urls": {
+		"message": "సంబంధిత URLలను సంపూర్ణంగా మార్చండి"
+	},
+	"options_ignore_bxsizing": {
+		"message": "బాక్స్ పరిమాణాన్ని విస్మరించండి"
+	},
+	"options_show_grid": {
+		"message": "గ్రిడ్ ను చూపించండి"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "కత్తిరించిన సెలెక్టర్"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "ఫాంట్-సైజ్ కొలత యూనిట్లను పిక్సల్స్ గా మార్చండి"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "సత్వరమార్గాలు పనిచేయడానికి పేజీ పై దృష్టి పెట్టాలి. మీరు సత్వరమార్గం ద్వారా ఎల్లప్పుడూ పొడిగింపును  తెరిస్తే చాలా సులభం."
+	},
+	"shortcuts_warning_2": {
+		"message": "మీరు దానిపై క్లిక్ చేయడం ద్వారా కూడా వాటిని మార్చవచ్చు."
+	},
+
+	"options_label_click_action": {
+		"message": "క్లిక్ చేసినప్పు డు :"
+	},
+	"options_click_to_pin": {
+		"message": "CSS విండోను పిన్ చేయండి"
+	},
+	"options_click_to_copy": {
+		"message": "కోడ్ ను కాపీ చేయండి"
+	},
+	"options_label_child_elements": {
+		"message": "చైల్డ్ ఎలిమెంట్స్ CSS:"
+	},
+	"options_label_html": {
+		"message": "HTML కోడ్:"
+	},
+	"options_label_display": {
+		"message": "ప్రదర్శించండి:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "CSS ఎంపికదారుల కోసం ప్రాధాన్యతలను కాపీ చేస్తోంది:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "ఇతర కాపీ ప్రాధాన్యతలు:"
+	},
+
+	"options_dont_copy": {
+		"message": "దానిని కాపీ చేయవద్దు"
+	},
+	"options_copy": {
+		"message": "దానిని కాపీ చేయండి"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "ఒరిజినల్ సెలెక్టర్‌లను కాపీ చేయండి (కానీ పేరెంట్ సెలెక్టర్‌లను తీసివేయండి)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "తెలివిగా సెలెక్టర్లను రూపొందించండి"
+	},
+
+	"options_nest_pseudos": {
+		"message": "Nest సూడో-క్లాస్‌లు, సూడో-ఎలిమెంట్స్ మరియు మీడియా ప్రశ్నలు (SASS/తక్కువ కోసం)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "సాధ్యమైనప్పుడు CSS ఎంపిక సాధనాలను కాపీ చేయవద్దు"
+	},
+
+
+	"overlapping": {
+		"message": "అతివ్యాప్తి"
+	},
+	"hold": {
+		"message": "నొక్కి పట్టుకోండి"
+	},
+	"click_traverse": {
+		"message": "ప్రయాణించడానికి క్లిక్ చేయండి"
+	},
+	"no_styles": {
+		"message": "స్టైల్ కనుగొనబడలేదు"
+	},
+	"loading": {
+		"message": "స్టైల్ లోడ్ అవుతుంది  ... మళ్ళీ ప్రయత్నించండి"
+	},
+	"click_to_copy": {
+		"message": "కాపీ చేయడానికి క్లిక్ చేయండి, పిన్ చేయడానికి స్పేస్ బార్  నొక్కండి"
+	},
+	"copying": {
+		"message": "అన్ని చైల్డ్ ఎలిమెంట్స్ స్టైల్‌లను కాపీ చేస్తోంది...<br>రద్దు చేయడానికి మళ్లీ క్లిక్ చేయండి."
+	},
+	"copied": {
+		"message": "క్లిప్‌బోర్డ్‌కు కాపీ చేయబడింది"
+	},
+
+	"ask_review": {
+		"message": "CSS Scanని ఆస్వాదిస్తున్నారా? సమీక్షతో మాకు సహాయం చేయండి"
+	},
+
+	"context_menu": {
+		"message": "CSS Scan‌తో తనిఖీ చేయండి"
+	}
+}

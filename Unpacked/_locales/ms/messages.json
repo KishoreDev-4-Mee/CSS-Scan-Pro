@@ -1,0 +1,161 @@
+{
+	"description": {
+		"message": "Siasat dan salin perkiraan CSS dengan segera"
+	},
+	"pause_continue": {
+		"message": "Rehat / Sambung"
+	},
+	"scan_parent": {
+		"message": "Imbas elemen induk"
+	},
+	"toggle_grid": {
+		"message": "Togol kekisi"
+	},
+	"pin_shortcut": {
+		"message": "Semat hasil"
+	},
+
+	"exit": {
+		"message": "Tutup CSS Scan"
+	},
+	"pause": {
+		"message": "Rehat"
+	},
+	"continue": {
+		"message": "Sambung"
+	},
+	"move": {
+		"message": "Gerak"
+	},
+	"shortcuts": {
+		"message": "Pintasan"
+	},
+	"feedback": {
+		"message": "Maklumbalas"
+	},
+	"options": {
+		"message": "Pilihan"
+	},
+	"whats_new": {
+		"message": "Apa yang Baru"
+	},
+	"activate": {
+		"message": "Aktfikan ekstensi"
+	},
+	"close_shortcut": {
+		"message": "Tutup ekstensi"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "Abaikan awalan vendor penyemak imbas"
+	},
+	"options_ignore_inherited": {
+		"message": "Abaikan gaya yang diwarisi"
+	},
+	"options_absolute_urls": {
+		"message": "Tukar URL relatif kepada mutlak"
+	},
+	"options_ignore_bxsizing": {
+		"message": "Abaikan box-sizing"
+	},
+	"options_show_grid": {
+		"message": "Grid"
+	},
+	"options_guidelines": {
+		"message": "Guidelines"
+	},
+	"options_truncate_classes": {
+		"message": "Pemilih dipotong"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "Tukar unit ukuran font-size ke px"
+	},
+
+	"shortcuts_warning_1": {
+		"message": "Halaman perlu ditumpukan untuk pintasan berjalan. Lebih senang jika anda selalu membuka ekstensi dengan pintasan."
+	},
+	"shortcuts_warning_2": {
+		"message": "Anda juga boleh menukar dengan mengklik ke atasnya"
+	},
+
+	"options_label_click_action": {
+		"message": "Pada klik:"
+	},
+	"options_click_to_pin": {
+		"message": "Sematkan tetingkap CSS"
+	},
+	"options_click_to_copy": {
+		"message": "Salin kod"
+	},
+	"options_label_child_elements": {
+		"message": "CSS elemen kanak-kanak:"
+	},
+	"options_label_html": {
+		"message": "Kod HTML:"
+	},
+	"options_label_display": {
+		"message": "Paparan:"
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "Menyalin keutamaan untuk pemilih CSS:"
+	},
+	"options_label_other_copy_preferences": {
+		"message": "Pilihan penyalinan lain:"
+	},
+
+	"options_dont_copy": {
+		"message": "Jangan tiru"
+	},
+	"options_copy": {
+		"message": "Salin la"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "Salin pemilih asal (tetapi alih keluar pemilih induk)"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "Menjana pemilih dengan bijak"
+	},
+
+	"options_nest_pseudos": {
+		"message": "Kelas pseudo Nest, elemen pseudo dan pertanyaan media (untuk SASS/LESS)"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "Jangan salin pemilih CSS apabila boleh"
+	},
+
+
+	"overlapping": {
+		"message": "bertindih"
+	},
+	"hold": {
+		"message": "pegang"
+	},
+	"click_traverse": {
+		"message": "dan klik untuk melintasi"
+	},
+	"no_styles": {
+		"message": "Tiada gaya dijumpai"
+	},
+	"loading": {
+		"message": "Memasukkan... Cuba lagi"
+	},
+	"click_to_copy": {
+		"message": "Klik untuk salin, tekan space untuk semat"
+	},
+	"copying": {
+		"message": "Menyalin gaya semua elemen kanak-kanak...<br>Klik sekali lagi untuk membatalkan."
+	},
+	"copied": {
+		"message": "Disalin ke clipboard"
+	},
+
+	"ask_review": {
+		"message": "Menikmati CSS Scan? Bantu kami dengan ulasan"
+	},
+
+	"context_menu": {
+		"message": "Siasat dengan CSS Scan"
+	}
+}

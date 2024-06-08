@@ -1,0 +1,162 @@
+{
+	"description": {
+		"message": "快速檢查和複製 CSS 計數值"
+	},
+	"pause_continue": {
+		"message": "暫停 / 繼續"
+	},
+	"scan_parent": {
+		"message": "掃描父元素"
+	},
+	"toggle_grid": {
+		"message": "開關網格"
+	},
+	"pin_shortcut": {
+		"message": "Pin box"
+	},
+
+	"exit": {
+		"message": "關閉 CSS Scan"
+	},
+	"pause": {
+		"message": "暫停"
+	},
+	"continue": {
+		"message": "繼續"
+	},
+	"move": {
+		"message": "移動"
+	},
+	"shortcuts": {
+		"message": "快捷鍵"
+	},
+	"feedback": {
+		"message": "反饋"
+	},
+	"options": {
+		"message": "選項"
+	},
+	"whats_new": {
+		"message": "什麼是新的"
+	},
+	"activate": {
+		"message": "打開 CSS Scan"
+	},
+	"close_shortcut": {
+		"message": "關閉 CSS Scan"
+	},
+
+
+	"options_ignore_prefixes": {
+		"message": "忽略瀏覽器供應商前綴"
+	},
+	"options_ignore_inherited": {
+		"message": "忽略繼承的屬性"
+	},
+	"options_absolute_urls": {
+		"message": "將字體大小度量單位轉換為 px"
+	},
+	"options_ignore_bxsizing": {
+		"message": "忽略 box-sizing"
+	},
+	"options_show_grid": {
+		"message": "格網"
+	},
+	"options_guidelines": {
+		"message": "指導方針"
+	},
+	"options_truncate_classes": {
+		"message": "截斷的選擇器"
+	},
+	"options_convert_fontsize_to_px": {
+		"message": "將字體大小量度單位轉換為px"
+	},
+
+
+	"shortcuts_warning_1": {
+		"message": "頁面狀態下需要使用於快捷鍵才有效。 如果您始終通過快捷方式打開擴展程序，則會更容易。"
+	},
+	"shortcuts_warning_2": {
+		"message": "您也可以通過點擊來更改。"
+	},
+
+	"options_label_click_action": {
+		"message": "點擊時："
+	},
+	"options_click_to_pin": {
+		"message": "固定CSS視窗"
+	},
+	"options_click_to_copy": {
+		"message": "複製代碼"
+	},
+	"options_label_child_elements": {
+		"message": "子元素的 CSS："
+	},
+	"options_label_html": {
+		"message": "HTML代碼："
+	},
+	"options_label_display": {
+		"message": "顯示："
+	},
+	"options_label_copy_preferences_selectors": {
+		"message": "CSS 選擇器的複制首選項："
+	},
+	"options_label_other_copy_preferences": {
+		"message": "其他復印偏好："
+	},
+
+	"options_dont_copy": {
+		"message": "不要復制它"
+	},
+	"options_copy": {
+		"message": "複製它"
+	},
+
+	"options_copy_original_selectors": {
+		"message": "複製原始選擇器（但刪除父選擇器）"
+	},
+	"options_smartly_generate_selectors": {
+		"message": "智能生成選擇器"
+	},
+
+	"options_nest_pseudos": {
+		"message": "嵌套偽類、偽元素和媒體查詢（針對 SASS/LESS）"
+	},
+	"options_dont_copy_selectors_when_possible": {
+		"message": "盡可能不要復制 CSS 選擇器"
+	},
+
+
+	"overlapping": {
+		"message": "重疊"
+	},
+	"hold": {
+		"message": "保留"
+	},
+	"click_traverse": {
+		"message": "然後透過點擊來穿越"
+	},
+	"no_styles": {
+		"message": "沒有找到任何樣式"
+	},
+	"loading": {
+		"message": "樣式下載中...再試一次"
+	},
+	"click_to_copy": {
+		"message": "點擊複製，或是按空格键"
+	},
+	"copying": {
+		"message": "正在復制所有子元素的樣式...<br>再次單擊以取消。"
+	},
+	"copied": {
+		"message": "複製到剪貼板"
+	},
+
+	"ask_review": {
+		"message": "喜歡 CSS Scan？ 幫助我們進行評論"
+	},
+
+	"context_menu": {
+		"message": "使用CSS Scan進行檢查"
+	}
+}
